@@ -1,0 +1,4 @@
+A python program to generate mock data, both steam and batch the generated data
+  is saved in JSON format, making it easy to integrate with various data processing systems.
+  Ideal for data warehouse projects, this generator allows users to define custom data schemas
+By using this tool, one can effectively test and validate their data ingestion pipelines
